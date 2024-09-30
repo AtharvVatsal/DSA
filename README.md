@@ -26,7 +26,7 @@ The repository is designed to:
 Each folder will contain:
 - A brief description of the data structure or algorithm.
 - Example code with detailed comments.
-- Will also add Practice problems and solutions.
+- I will also add practice problems and solutions.
 
 ## 🧑‍💻 How to Use
 1. **Clone the repository:**
@@ -35,7 +35,7 @@ Each folder will contain:
    ```
 2. **Navigate to a specific topic folder to start learning:**
    ```bash
-   cd Arrays
+   cd [Folder Name]
    ```
 3. **Run the code examples or solve the practice problems:**
    - Code is provided with comments to explain key concepts.
